@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.App{text-align:center;padding:16px}.board-container{background:#ffefd5;position:relative}.shell-container{background-color:#add8e6;border-radius:50%;border:6px solid #add8e6;position:relative}.shell-container.open{background-color:transparent}.ball{position:absolute;background-color:#f08080;border-radius:50%}.button-reset{background:none;color:inherit;border:none;padding:0;font:inherit;cursor:pointer;outline:inherit;-webkit-transition:all .3s;-o-transition:all .3s;transition:all .3s}
+/*# sourceMappingURL=main.e570a1ff.css.map*/
