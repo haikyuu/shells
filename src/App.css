@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  padding: 16px;
+}
+.board-container {
+  background: papayawhip;
+  position: relative;
+}
+.shell-container {
+  background-color: lightblue;
+  border-radius: 50%;
+  border: 6px solid lightblue;
+  position: relative;
+}
+.shell-container.open {
+  background-color: transparent;
+}
+.ball {
+  position: absolute;
+  background-color: lightcoral;
+  border-radius: 50%;
+}
+.button-reset {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  transition: all 0.3s;
+}
